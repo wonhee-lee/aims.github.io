@@ -4,8 +4,29 @@ title: About me
 subtitle: Translational Research in Neuroimaging and Data Science
 ---
 
-Dr. Won Hee Lee is a postdoctoral fellow of Psychiatry at the Icahn School of Medicine at Mount Sinai. He received the B.E. and M.S. degrees in Biomedical Engineering from Kyung Hee University, Republic of Korea, in 2006 and 2008, respectively. He received the Ph.D. degree in Biomedical Engineering from Columbia University in 2014. He worked in the Heffner Biomedical Engineering Imaging Laboratory at Columbia University and jointly worked in the Division of Brain Stimulation and Therapeutic Modulation in the Columbia Psychiatry Department as well as in the Brain Stimulation and Neurophysiology Division in the Department of Psychiatry and Behavioral Sciences at Duke University Medical Center. He is particularly interested in advancing our understanding of the mechanism underlying neural circuitry abnormalities in neuropsychiatric disorders and in investigating the role of brain network dysregulation in psychiatric disorders using multimodal neuroimaging modalities in combination with brain stimulation techniques.
+### Employment
 
-### my history
+I am an Assistant Professor in Department of Software Convergence at Kyung Hee University. I worked as an Assistant Professor of Psychiatry at the Icahn School of Medicine at Mount Sinai, New York, USA.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Education
+
+I received the B.E. and M.S. degrees in Biomedical Engineering from Kyung Hee University, Republic of Korea, in 2006 and 2008, respectively. I received the Ph.D. degree in Biomedical Engineering from Columbia University in 2014. I worked in the Heffner Biomedical Engineering Imaging Laboratory at Columbia University and jointly worked in the Division of Brain Stimulation and Therapeutic Modulation in the Columbia Psychiatry Department as well as in the Brain Stimulation and Neurophysiology Division in the Department of Psychiatry and Behavioral Sciences at Duke University Medical Center. 
+
+### Research Interests
+
+My research spans a range of biological and medical research challenges that are data intensive and focused on the creation of novel methodologies to advance biomedical science discovery. I have worked with multidisciplinary teams and engaged in data-driven translational research to develop algorithms for data analysis and software as “digital biomarkers” that help aid in diagnostics and decision making in patient care. 
+My research can be characterized using four keywords: 
+## Biomedical Data Analysis 
+I am interested in innovative statistical signal and image processing algorithms for large-scale data analysis. 
+## Artificial Intelligence
+I am creating scalable and accurate artificial intelligence algorithms based on machine learning, deep learning and data mining. 
+## Computational Modeling and Simulation
+I am also interested in developing computational approaches that can help take advantage of large data sets, categorizing brain dysfuntion with novel methods (to lead to better diagnoses and improved biomarkers.
+## Intelligent Healthcare
+I am aiming at discovering knowledge and wisdom in precision medicine, and data-driven digital healthcare.
+
+
+
+
+
+
