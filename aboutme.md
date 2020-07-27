@@ -6,7 +6,7 @@ subtitle: Translational Research in Neuroimaging and Data Science
 
 ## Employment
 
-I will join Kyung Hee University, Department of Software Convergence as an Assistant Professor starting September 2020. I am currently an Assistant Professor of Psychiatry at the Icahn School of Medicine at Mount Sinai, New York, USA.
+I will be joining my alma mater, Kyung Hee University as an Assistant Professor of Software Convergence in September 2020. I am currently an Assistant Professor of Psychiatry at the Icahn School of Medicine at Mount Sinai, New York, USA.
 
 ## Education
 
