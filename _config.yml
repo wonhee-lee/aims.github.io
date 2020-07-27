@@ -13,10 +13,11 @@ author: Wonhee Lee
 
 navbar-links:
   About Me: "aboutme"
+  Publication: "publication"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://wonhee-lee.github.io"
+  Home: "https://wonhee-lee.github.io"
 
 # --- Logo --- #
 
