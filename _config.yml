@@ -13,9 +13,9 @@ author: Wonhee Lee
 
 navbar-links:
   About Me: "aboutme"
-  Publication: "publication"
+  Publications: "publications"
   Teaching: 
-    - Data Science and Visualizationi:
+    - Data Science and Visualization:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
