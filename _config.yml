@@ -14,12 +14,13 @@ author: Wonhee Lee
 navbar-links:
   About Me: "aboutme"
   Research: "research"
-  Publications: "publications"
+  Publications: "https://scholar.google.com/citations?hl=en&user=p79efpQAAAAJ&view_op=list_works&sortby=pubdate"
   Teaching: 
     - Data Science and Visualization:
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Python Data Science Handbook: "https://jakevdp.github.io/PythonDataScienceHandbook"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - Beautiful Jekyll: "https://beautifuljekyll.com"    
   Home: "https://wonhee-lee.github.io"
 
 # --- Logo --- #
