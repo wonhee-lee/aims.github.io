@@ -4,11 +4,9 @@ title: About me
 subtitle: Translational Research in Neuroimaging and Data Science
 ---
 
-
-
 ## Employment
 
-I am an Assistant Professor in Department of Software Convergence at Kyung Hee University. I worked as an Assistant Professor of Psychiatry at the Icahn School of Medicine at Mount Sinai, New York, USA.
+I am an Assistant Professor in Department of Software Convergence at Kyung Hee University. I was an Assistant Professor of Psychiatry at the Icahn School of Medicine at Mount Sinai, New York, USA.
 
 ## Education
 
