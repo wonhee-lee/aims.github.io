@@ -21,7 +21,7 @@ I am interested in innovative statistical signal and image processing algorithms
 ### Artificial Intelligence
 I am creating scalable and accurate artificial intelligence algorithms based on machine learning, deep learning and data mining. 
 ### Computational Modeling and Simulation
-I am using and developing computational approaches that can help take advantage of large data sets, categorizing brain dysfuntion with novel methods to lead to better diagnoses and improved biomarkers.
+I am using and developing computational approaches for large-scale brain dynamics that can help take advantage of large data sets, categorizing brain dysfuntion with novel methods to lead to better diagnoses and improved biomarkers. I am aiming at providing mechanistic insights into complex patterns of clinical dysfunction in mental disorders.
 ### Network Neuroscience
 I am analyzing multimodal neuroimaging data to understand integrative aspects of brain structure and function, specifically how the connections and interactions among brain regions produce brain dynamics, cognition, behavior, and disease.
 ### Intelligent Healthcare
