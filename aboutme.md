@@ -15,7 +15,7 @@ I received the B.E. and M.S. degrees in Biomedical Engineering from Kyung Hee Un
 ## Research Interests
 
 My research spans a range of biological and medical research challenges that are data intensive and focused on the creation of novel methodologies to advance biomedical science discovery. I work with multidisciplinary teams and engage in data-driven translational research to develop algorithms for data analysis and software as digital biomarkers that help aid in diagnostics and decision making in patient care. 
-My research can be characterized using four keywords: 
+My research can be characterized using the following keywords: 
 ### Biomedical Data Analysis 
 I am interested in innovative statistical signal and image processing algorithms for large-scale data analysis. 
 ### Artificial Intelligence
