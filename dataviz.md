@@ -4,12 +4,10 @@ title: Data Science and Visualization
 subtitle: SWCON42500, Fall 2020	
 ---
 
-## Textbooks
-
-
+## Textbooks\
 
 ### Python Data Science Handbook
-[Python Data Science Handbook, Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), Jake VanderPlas
 
 ### Fundamentals of Data Visualization
-[Fundamentals of Data Visualization, Claus O. Wilke](https://serialmentor.com/dataviz/)
+[Fundamentals of Data Visualization](https://serialmentor.com/dataviz/), Claus O. Wilke
