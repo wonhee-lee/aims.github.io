@@ -3,7 +3,7 @@ layout: page
 title: Research
 subtitle: Translational Research in Neuroimaging and Data Science
 ---
-
+<br />
 ## Research Interests
 
 My research spans a range of biological and medical research challenges that are data intensive and focused on the creation of novel methodologies to advance biomedical science discovery. I work with multidisciplinary teams and engage in data-driven translational research to develop algorithms for data analysis and software as digital biomarkers that help aid in diagnostics and decision making in patient care. 
