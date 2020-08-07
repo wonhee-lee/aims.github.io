@@ -11,3 +11,4 @@ Our paper [Heritability and Cognitive Relevance of Structural Brain Controllabil
 
 ![Cover](/assets/img/cover_github.jpg){: .mx-auto.d-block :}
 
+Image of white matter fiber tractography (left hemisphere) estimated from diffusion tensor imaging and structural controllability overlaid on cerebral cortex (right hemisphere) computed from structural connectome. Structural controllability map shows the spatially ranked representation of average controllability in cerebral cortex (low values coded in blue, high values in yellow). See Lee et al. 2020. Heritability and cognitive relevance of structural brain controllability. Cereb Cortex 30(5): 3044–3054.
