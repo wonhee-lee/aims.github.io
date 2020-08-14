@@ -4,6 +4,10 @@ title: Data Science and Visualization
 subtitle: SWCON42500, Fall 2020	
 ---
 
+## Introduction to Data Science and Visualization
+[![](http://img.youtube.com/vi/KJR_c4j_x94/0.jpg)](http://www.youtube.com/watch?v=KJR_c4j_x94 "")
+
+
 ## Textbooks
 <br />
 
