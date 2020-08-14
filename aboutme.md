@@ -3,6 +3,7 @@ layout: page
 title: About me
 subtitle: Translational Research in Neuroimaging and Data Science
 ---
+<br />
 
 ## Employment
 
