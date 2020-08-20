@@ -19,7 +19,7 @@ navbar-links:
     - Data Science and Visualization: "dataviz"
   Resources:
     - Python Data Science Handbook: "https://jakevdp.github.io/PythonDataScienceHandbook"
-    - Fundamentals of Data Visualization: "https://serialmentor.com/dataviz/"
+    - Fundamentals of Data Visualization: "https://clauswilke.com/dataviz/"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"    
   Home: "https://wonhee-lee.github.io"
