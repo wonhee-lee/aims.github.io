@@ -65,7 +65,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: user=p79efpQAAAAJ&hl=en
+  google-scholar: citations?user=p79efpQAAAAJ&hl=en
 
 # --- General options --- #
 
