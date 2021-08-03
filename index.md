@@ -5,13 +5,15 @@ permalink: /
 subtitle: <b>A</b>rtifical <b>I</b>ntelligence in <b>M</b>edcine and <b>S</b>cience Laboratory
 published: true
 ---
-<img src="img/lab_photo.jpeg" width="820" align="center"/>
+#<img src="img/lab_photo.jpeg" width="820" align="center"/>
 
 Welcome to **AIMS Lab** at **Kyung Hee University**! 
 
+<!--
 Our mission is to develop state-of-the-art machine learning/deep learning algorithms for solving **intelligence** and **real world data problems**. For more information on research topics, please visit our [project page](projects/project). To know more about the lab, you may read this [**feature**](https://webzine.skku.edu/skkuzine/section/culture03.do?articleNo=76954&pager.offset=0&pagerLimit=10) written while we were at SKKU (in Korean).    
+-->
 
-To know more about joining the lab, please read this [*info*](info.md) and e-mail [Prof. Taesup Moon](people/pi.md) with your **transcript & CV**.
+To know more about joining the lab, please read this [*info*](info.md) and e-mail [Prof. Wonhee Lee](people/pi.md) with your **transcript & CV**.
 
 <!--
 Following is our lab intro video taken in 2018 (special thanks to Karel Setnička)! 
@@ -23,6 +25,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 - (2021-03) Sungkyu joins the group. Welcome aboard! 
 - (2020-09) Won Hee joins Department of Software Convergence at Kyung Hee University
 
+<!--
 ### Recent News
 <hr>
 - 21.7 One paper got accepted to [**ICCV 21**](http://iccv2021.thecvf.com/home)! Congratulations Hongjoon Ahn and Jihwan Kwak!
@@ -38,3 +41,4 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 - 21.3 Our lab will be supported by [**NRF Mid-Career Research Program**](https://www.nrf.re.kr/biz/info/notice/list?menu_no=378&biz_no=85) for 5 years!
 - 20.11 Sungmin won the Best Paper Award at [**2020 Microsoft-AI Association Fall Conference**]()! Congratulations!
 - 20.12 Sangwon, Hongjoon won the [**Qualcomm Innovation Fellowship Korea**]()! Congratulations!
+-->
