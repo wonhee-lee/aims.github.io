@@ -28,6 +28,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ## Recent News
 <hr>
+- (2021-08) WHL wins the NRF's Grant.
 - (2021-07) Our undergrads (Midan, Yeon Ju, Jeong Sue) won awards at [KCC 2021](https://www.kiise.or.kr/academy/board/academyNewsView.fa?MENU_ID=080100&sch_add_bd=%ED%95%99%ED%9A%8C%EC%86%8C%EC%8B%9D&NUM=2180). Well deserved. Congratulations!
 - (2021-06) Seung Hye had poster presentation at [OHBM 2021](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4041)
 - (2021-06) Dong Hyeok gave oral presentation at [Korea Society of IT Services](https://www.itservice.or.kr/news01.html?bmode=read&bid=notice&id_no=700&l=1) 
@@ -36,6 +37,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 - (2021-03) WHL wins the NRF's Outstanding Young Scientist Grant. The grant will support our research for the next 3 years
 - (2021-04) One abstract got accepted to [OHBM 2021](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4041). Congratulations Seung Hye!
 - (2021-03) Sungkyu joins the group as graduate research assistant. Welcome aboard!
+- (2021-01) Our research will be supported by [IITP](https://www.iitp.kr/main.it)
 - (2021-09) Our research will be supported by Kyung Hee University
 - (2020-09) Won Hee joins Department of Software Convergence at Kyung Hee University
 
