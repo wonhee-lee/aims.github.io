@@ -2,7 +2,7 @@
 layout: page
 title: AIMS Lab
 permalink: /
-subtitle: <b>A</b>rtificial <b>I</b>ntelligence in <b>M</b>edcine and <b>S</b>cience Laboratory
+subtitle: <b>A</b>rtificial <b>I</b>ntelligence in <b>M</b>edicine and <b>S</b>cience Laboratory
 published: true
 ---
 
