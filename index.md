@@ -1,15 +1,13 @@
 ---
 layout: page
-title: M.IN.D Lab
+title: AIMS Lab
 permalink: /
-subtitle: <b>M</b>achine <b>IN</b>telligence and <b>D</b>ata science Laboratory
+subtitle: <b>A</b>rtifical <b>I</b>ntelligence in <b>M</b>edcine and <b>S</b>cience Laboratory
 published: true
 ---
 <img src="img/lab_photo.jpeg" width="820" align="center"/>
 
-<!--**We recently moved to [Seoul National University ECE](https://ee.snu.ac.kr) as of March 01, 2021!**-->
-
-Welcome to **M.IN.D Lab** at **Seoul National University**! 
+Welcome to **AIMS Lab** at **Kyung Hee University**! 
 
 Our mission is to develop state-of-the-art machine learning/deep learning algorithms for solving **intelligence** and **real world data problems**. For more information on research topics, please visit our [project page](projects/project). To know more about the lab, you may read this [**feature**](https://webzine.skku.edu/skkuzine/section/culture03.do?articleNo=76954&pager.offset=0&pagerLimit=10) written while we were at SKKU (in Korean).    
 
