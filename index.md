@@ -21,7 +21,11 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ## Recent News
 <hr>
+- (2021-07) Our research will be supported by 
+- (2021-03) WHL wins the NRF's Outstanding Young Scientist Grant. The grant will support our research for the next 3 years.
+- (2021-04) WHL's work with [Sophia Frangou lab](https://labs.icahn.mssm.edu/frangoulab/) is published in [Psychiatry Research: Neuroimaging](https://www.sciencedirect.com/science/article/pii/S0925492721000226)
 - (2021-03) Sungkyu joins the group. Welcome aboard! 
+- (2021-09) Our research will be supported by Kyung Hee University 
 - (2020-09) Won Hee joins Department of Software Convergence at Kyung Hee University
 
 <!--
