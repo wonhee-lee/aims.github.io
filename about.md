@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Translational Research in Neuroimaging and Data Science
+title: About
+subtitle: Data Science and Aritifical Intelligence Laboratory
 ---
 <br />
 
