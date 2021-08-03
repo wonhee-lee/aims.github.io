@@ -7,7 +7,7 @@ title: Data Science and AI Laboratory
 description: AIMS @ KHU
 
 # Your name to show in the footer
-author: AIMS
+author: Won Hee Lee Research Group, Kyung Hee University
 
 # --- List of links in the navigation bar --- #
 
@@ -73,11 +73,11 @@ social-network-links:
 share-links-active:
   email: true
   google: true
-  twitter: false
+  github: true
+  twitter: true
   rss: false
   facebook: false
-  google-plus: false
-  github: true
+  google-plus: false  
   reddit: false
   linkedin: false
   xing: false
