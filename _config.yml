@@ -12,7 +12,7 @@ author: AIMS
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "about"
+  About: "about"
   Research: "research"
   Publications: "https://scholar.google.com/citations?hl=en&user=p79efpQAAAAJ&view_op=list_works&sortby=pubdate"
   Teaching: 
@@ -22,7 +22,7 @@ navbar-links:
     - Fundamentals of Data Visualization: "https://clauswilke.com/dataviz/"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"    
-  Home: "https://khu-aims.github.io"
+#  Home: "https://khu-aims.github.io"
 
 # --- Logo --- #
 
