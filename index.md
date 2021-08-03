@@ -5,6 +5,7 @@ permalink: /
 subtitle: <b>A</b>rtifical <b>I</b>ntelligence in <b>M</b>edcine and <b>S</b>cience Laboratory
 published: true
 ---
+
 Welcome to **AIMS Lab** at **Kyung Hee University**! 
 
 <!--
