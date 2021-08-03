@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # Name of website
-title: Data Science and AI Laboratory
+title: Artificial Intelligence in Medicine and Science 
 
 # Short description of your site
-description: AIMS @ KHU
+description: Data Science and AI Laboratory
 
 # Your name to show in the footer
 author: Won Hee Lee Research Group, Kyung Hee University
@@ -47,25 +47,25 @@ social-network-links:
   email: "whlee@khu.ac.kr"
   github: wonhee-lee
   twitter: won_hee_lee
-  facebook: deanattali
-  rss: true
-  reddit: yourname
-  linkedin: yourname
-  xing: yourname
-  stackoverflow: "3943160/daattali"
-  snapchat: yourname
-  instagram: yourname
-  youtube: user/yourname
-  spotify: yourname
-  telephone: yourphone   # +14159998888
-  steam: yourname
-  twitch: yourname
-  yelp: yourname
-  telegram: yourname
-  calendly: yourname
-  mastodon: instance.url/@username
-  ORCID: your ORCID ID
   google-scholar: citations?user=p79efpQAAAAJ&hl=en
+#  facebook: yourname
+#  rss: true
+#  reddit: yourname
+#  linkedin: yourname
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: yourname
+#  instagram: yourname
+#  youtube: user/yourname
+#  spotify: yourname
+#  telephone: yourphone   # +14159998888
+#  steam: yourname
+#  twitch: yourname
+#  yelp: yourname
+#  telegram: yourname
+#  calendly: yourname
+#  mastodon: instance.url/@username
+#  ORCID: your ORCID ID
 
 # --- General options --- #
 
@@ -75,21 +75,21 @@ share-links-active:
   google: true
   github: true
   twitter: true
-  rss: false
-  facebook: false
-  google-plus: false  
-  reddit: false
-  linkedin: false
-  xing: false
-  stackoverflow: false
-  snapchat: false
-  instagram: false
-  youtube: false
-  spotify: false
-  telephone: false
-  steam: false
-  twitch: false
-  yelp: false
+#  rss: false
+#  facebook: false
+#  google-plus: false  
+#  reddit: false
+#  linkedin: false
+#  xing: false
+#  stackoverflow: false
+#  snapchat: false
+#  instagram: false
+#  youtube: false
+#  spotify: false
+#  telephone: false
+#  steam: false
+#  twitch: false
+#  yelp: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -189,7 +189,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Seoul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
