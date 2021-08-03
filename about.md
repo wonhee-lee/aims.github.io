@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: Data Science and Aritifical Intelligence Laboratory
+subtitle: Data Science and Artificial Intelligence Laboratory
 ---
 <br />
 
