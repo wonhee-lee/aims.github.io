@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: Data Science and Artificial Intelligence in Medicine and Science (AIMS)
+subtitle: Artificial Intelligence in Medicine and Science (AIMS)
 ---
 <br />
 ## Research Interests
