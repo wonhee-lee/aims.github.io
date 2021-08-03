@@ -47,34 +47,49 @@ social-network-links:
   email: "whlee@khu.ac.kr"
   github: wonhee-lee
   twitter: won_hee_lee
-#  facebook: deanattali
-#  rss: true
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  facebook: deanattali
+  rss: true
+  reddit: yourname
+  linkedin: yourname
+  xing: yourname
+  stackoverflow: "3943160/daattali"
+  snapchat: yourname
+  instagram: yourname
+  youtube: user/yourname
+  spotify: yourname
+  telephone: yourphone   # +14159998888
+  steam: yourname
+  twitch: yourname
+  yelp: yourname
+  telegram: yourname
+  calendly: yourname
+  mastodon: instance.url/@username
+  ORCID: your ORCID ID
   google-scholar: citations?user=p79efpQAAAAJ&hl=en
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  email: true
+  google: true
+  twitter: false
+  rss: false
   facebook: false
+  google-plus: false
+  github: true
+  reddit: false
   linkedin: false
-  vk: false
+  xing: false
+  stackoverflow: false
+  snapchat: false
+  instagram: false
+  youtube: false
+  spotify: false
+  telephone: false
+  steam: false
+  twitch: false
+  yelp: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
