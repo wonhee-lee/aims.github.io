@@ -27,7 +27,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 - (2021-04) WHL's work with [Sophia Frangou lab](https://labs.icahn.mssm.edu/frangoulab/) is published in [Psychiatry Research: Neuroimaging](https://www.sciencedirect.com/science/article/pii/S0925492721000226)
 - (2021-04) One abstract got accepted to [OHBM 2021](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4041). Congratulations Seung Hye!
 - Sungkyu joins the group. Welcome aboard! 
-- (2021-03) Sungkyu joins the group. Welcome aboard! 
+- (2021-03) Sungkyu joins the group as graduate research assistant . Welcome aboard! - 
 - (2021-09) Our research will be supported by Kyung Hee University 
 - (2020-09) Won Hee joins Department of Software Convergence at Kyung Hee University
 
