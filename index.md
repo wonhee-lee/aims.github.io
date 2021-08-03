@@ -2,7 +2,7 @@
 layout: page
 title: AIMS Lab
 permalink: /
-subtitle: <b>A</b>rtifical <b>I</b>ntelligence in <b>M</b>edcine and <b>S</b>cience Laboratory
+subtitle: <b>A</b>rtificial <b>I</b>ntelligence in <b>M</b>edcine and <b>S</b>cience Laboratory
 published: true
 ---
 
@@ -21,9 +21,12 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ## Recent News
 <hr>
-- (2021-07) Our research will be supported by 
+- (2021-07) Our undergrads (Midan, Yeon Ju, Jeong Sue) win awards at [KCC2021](https://www.kiise.or.kr/conference/kcc/2021/).  Congrats! 
+- (2021-06) Seung Hye had poster presentation at OHBM 2021
 - (2021-03) WHL wins the NRF's Outstanding Young Scientist Grant. The grant will support our research for the next 3 years.
 - (2021-04) WHL's work with [Sophia Frangou lab](https://labs.icahn.mssm.edu/frangoulab/) is published in [Psychiatry Research: Neuroimaging](https://www.sciencedirect.com/science/article/pii/S0925492721000226)
+- (2021-04) One abstract got accepted to [OHBM 2021](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4041). Congratulations Seung Hye!
+- Sungkyu joins the group. Welcome aboard! 
 - (2021-03) Sungkyu joins the group. Welcome aboard! 
 - (2021-09) Our research will be supported by Kyung Hee University 
 - (2020-09) Won Hee joins Department of Software Convergence at Kyung Hee University
