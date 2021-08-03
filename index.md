@@ -18,6 +18,11 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 <iframe src="https://player.vimeo.com/video/257239184" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 -->
 
+## Recent News
+<hr>
+- (2021-03) Sungkyu joins the group. Welcome aboard! 
+- (2020-09) Won Hee joins Department of Software Convergence at Kyung Hee University
+
 ### Recent News
 <hr>
 - 21.7 One paper got accepted to [**ICCV 21**](http://iccv2021.thecvf.com/home)! Congratulations Hongjoon Ahn and Jihwan Kwak!
