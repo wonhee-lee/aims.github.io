@@ -8,11 +8,18 @@ published: true
 
 Welcome to **AIMS Lab** at **Kyung Hee University**!
 
+## Open Positions
+We are looking for graduate students (MS, MS/PhD starting Spring 2022), and postdoctoral fellows interested in biomedical and health data sciences, network neuroscience, digital therapeutics, or related fields. Strong academic backgrounds in CS, BME, EE, Physics, or other engineering fields preferred. 
+
+Please email your resume to whlee@khu.ac.kr. 
+
 <!--
 Our mission is to develop state-of-the-art machine learning/deep learning algorithms for solving **intelligence** and **real world data problems**. For more information on research topics, please visit our [project page](projects/project). To know more about the lab, you may read this [**feature**](https://webzine.skku.edu/skkuzine/section/culture03.do?articleNo=76954&pager.offset=0&pagerLimit=10) written while we were at SKKU (in Korean).    
 -->
 
+<!--
 To know more about joining the lab, please read this [*info*](info.md) and e-mail [Prof. Wonhee Lee](people/pi.md) with your **transcript & CV**.
+-->
 
 <!--
 Following is our lab intro video taken in 2018 (special thanks to Karel Setnička)! 
