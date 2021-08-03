@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: AI in Medicine and Science
+title: Data Science and AI Laboratory
 
 # Short description of your site
 description: AIMS @ KHU
@@ -12,7 +12,7 @@ author: AIMS
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "about"
   Research: "research"
   Publications: "https://scholar.google.com/citations?hl=en&user=p79efpQAAAAJ&view_op=list_works&sortby=pubdate"
   Teaching: 
