@@ -6,9 +6,6 @@ subtitle: AIMS Lab Members
 
 #### Lab director
 * [Won Hee Lee](https://wonhee-lee.github.io/aboutme/)
-<br />
-<br />
-<br />
 
 #### Graduate students
 * Sungkyu Kim
