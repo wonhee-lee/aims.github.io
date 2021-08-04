@@ -4,12 +4,12 @@ title: People
 subtitle: AIMS Lab Family
 ---
 
-#### MS students
-* [Sungkyu Kim]
+#### Graduate students
+* Sungkyu Kim
 
-#### BS students
-* [Joohyeok Han]
-* [Minjae Kim]  
+#### Undergraduate students
+* Joohyeok Han
+* Minjae Kim  
 
 #### Alumni
 
