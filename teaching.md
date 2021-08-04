@@ -5,14 +5,14 @@ subtitle: Courses
 ---
 ### 2021
 #### Fall
-- Machine Learing
-- Data Science and Visualization 
+- Machine Learning
+- Data Science and Visualization
 - Data Analysis Capstone Design
 - Software Convergence Capstone Design
 
 #### Spring
-- Machine Learning 
-- Software Convergence Capstone Design 
+- Machine Learning
+- Software Convergence Capstone Design
 
 <hr>
 ### 2020
