@@ -9,7 +9,7 @@ published: true
 Welcome to **AIMS Lab** at **Kyung Hee University**!
 
 ## Open Positions
-We are looking for graduate students (MS, MS/PhD starting Spring 2022), and postdoctoral fellows interested in biomedical and health data sciences, network neuroscience, digital therapeutics, or related fields. Strong academic backgrounds in CS, BME, EE, Physics, or other engineering fields preferred. 
+We are looking for graduate students (MS, MS/PhD starting Spring 2022), and postdoctoral fellows interested in biomedical and health data sciences, network science, digital therapeutics, or related fields. Strong academic backgrounds in CS, BME, EE, Physics, or other engineering fields preferred. 
 
 Please email your resume to whlee@khu.ac.kr. 
 
