@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-subtitle: AIMS Lab Family
+subtitle: AIMS Lab Members
 ---
 
 #### Graduate students
