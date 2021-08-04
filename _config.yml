@@ -13,8 +13,8 @@ author: Won Hee Lee Research Group, Kyung Hee University
 
 navbar-links:
   About: "about"
-  Research: "research"
   People: "research"
+  Research: "research"  
   Publications: "https://scholar.google.com/citations?hl=en&user=p79efpQAAAAJ&view_op=list_works&sortby=pubdate"
   Teaching: "teaching"    
   Resources:
