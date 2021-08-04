@@ -16,8 +16,7 @@ navbar-links:
   Research: "research"
   People: "research"
   Publications: "https://scholar.google.com/citations?hl=en&user=p79efpQAAAAJ&view_op=list_works&sortby=pubdate"
-  Teaching: 
-    - Data Science and Visualization: "dataviz"
+  Teaching: "teaching"    
   Resources:
     - Python Data Science Handbook: "https://jakevdp.github.io/PythonDataScienceHandbook"
     - Fundamentals of Data Visualization: "https://clauswilke.com/dataviz/"
