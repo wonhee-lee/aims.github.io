@@ -9,7 +9,6 @@ subtitle: SWCON425, Fall 2020
 
 <br/>
 ## Textbooks
-
 ### Python Data Science Handbook
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), Jake VanderPlas
 
