@@ -5,19 +5,17 @@ subtitle: Courses
 ---
 ### 2021
 #### Fall
-- Machine Learing (Undergraduate)
-- Data Science and Visualization (Undergraduate)
-- Data Analysis Capstone Design (Undergraduate)
-- Software Convergence Capstone Design (Undergraduate)
+- Machine Learing
+- Data Science and Visualization 
+- Data Analysis Capstone Design
+- Software Convergence Capstone Design
 
 #### Spring
-- Machine Learning (Undergraduate)
-- Data Science and Visualization (Undergraduate)
-- Data Analysis Capstone Design (Undergraduate)
-- Software Convergence Capstone Design (Undergraduate)
+- Machine Learning 
+- Software Convergence Capstone Design 
 
 <hr>
 ### 2020
 #### Fall
-- Data Science and Visualization (Undergraduate)
-- Software Convergence Capstone Design (Undergraduate)
+- Data Science and Visualization 
+- Software Convergence Capstone Design 
