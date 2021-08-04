@@ -14,6 +14,7 @@ author: Won Hee Lee Research Group, Kyung Hee University
 navbar-links:
   About: "about"
   Research: "research"
+  People: "people"
   Publications: "https://scholar.google.com/citations?hl=en&user=p79efpQAAAAJ&view_op=list_works&sortby=pubdate"
   Teaching: 
     - Data Science and Visualization: "dataviz"
