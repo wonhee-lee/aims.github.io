@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-subtitle: Artificial Intelligence in Medicine and Science
+title: Laboratory for Artificial Intelligence in Medicine and Science
+subtitle: Artificial Intelligence in Medicine and Science (AIMS)
 ---
 <br />
 
