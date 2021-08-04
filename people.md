@@ -1,5 +1,5 @@
 ---
-title: People
+title: page
 subtitle: The humans behind this project
 executive-board:
   - name: Thibaut Jombart
