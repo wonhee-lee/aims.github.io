@@ -19,3 +19,10 @@ subtitle: Courses
 #### Fall
 - Data Science and Visualization 
 - Software Convergence Capstone Design 
+
+<hr>
+### ISMMS Prior to KHU
+- Biomedical Image Processing and Analysis 
+- Principles of Magnetic Resonance Imaging
+- Advanced Biomedical Image Analysis
+- Network Neuroscience
