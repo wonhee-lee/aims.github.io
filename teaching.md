@@ -17,7 +17,7 @@ subtitle: Courses
 <hr>
 ### 2020
 #### Fall
-- [Data Science and Visualization](https://wonhee-lee.github.io/dataviz/)
+- [Data Science and Visualization](https://wonhee-lee.github.io/khu-aims/dataviz/)
 - Software Convergence Capstone Design 
 
 <hr>
