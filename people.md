@@ -5,12 +5,11 @@ subtitle: AIMS Lab Family
 ---
 
 #### MS students
-
 * [Sungkyu Kim]
 
 #### BS students
-* [Jihwan Kwak](https://sites.google.com/view/kkwakzi)
-* [Taebaek Hwang]()  
+* [Joohyeok Han]
+* [Minjae Kim]  
 
 #### Alumni
 
