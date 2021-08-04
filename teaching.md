@@ -17,7 +17,7 @@ subtitle: Courses
 <hr>
 ### 2020
 #### Fall
-- Data Science and Visualization 
+- [Data Science and Visualization](http://www.youtube.com/watch?v=KJR_c4j_x94 "Data Science and Visualization")
 - Software Convergence Capstone Design 
 
 <hr>
