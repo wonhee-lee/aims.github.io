@@ -8,7 +8,7 @@ subtitle: AIMS Lab Members
 * [Won Hee Lee](https://wonhee-lee.github.io/aboutme/)
 
 #### Graduate students
-* Sungkyu Kim
+* [Sungkyu Kim](https://github.com/SungKyu-Kim39)
 
 #### Undergraduate students
 * Joohyeok Han
