@@ -1,7 +1,8 @@
 ---
 layout: page
 title: AIMS Lab
-subtitle: AIMS Lab is a data science and AI research lab led by Dr. Won Hee Lee
+subtitle: AIMS Lab is a data science and AI research lab<br/>
+led by Dr. Won Hee Lee
 ---
 <br />
 
