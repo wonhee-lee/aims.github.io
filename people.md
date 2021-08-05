@@ -8,7 +8,9 @@ subtitle: AIMS Lab Members
 * [Won Hee Lee](https://wonhee-lee.github.io/aboutme/)
 
 <img src="/assets/img/khu_lab_pic.jpg" width="200" height="260" align="left" hspace="20" />
-Assistant Professor   
+Won Hee received his PhD degree in Biomedical Engineering from Columbia University in 2014. He worked in the Heffner Biomedical Engineering Imaging Laboratory at Columbia University and jointly worked in the Division of Brain Stimulation and Therapeutic Modulation in the New York State Psychiatry Institute as well as in the Brain Stimulation and Neurophysiology Division in the Department of Psychiatry and Behavioral Sciences at Duke University Medical Center. He did his postdoctoral research at the Icahn School of Medicine at Mount Sinai where he stayed as Assistant Professor until he moved to Kyung Hee University. He completed his BE and MS degrees in Biomedical Engineering from Kyung Hee University in 2006 and 2008, respectively.
+
+Assistant Professor
 [Department of Software Convergence](http://swcon.khu.ac.kr/)  
 [Kyung Hee University](http://www.khu.ac.kr)   
 
