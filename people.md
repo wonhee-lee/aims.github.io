@@ -15,6 +15,8 @@ Won Hee is the director of the [AIMS Lab](https://wonhee-lee.github.io/khu-aims/
 
 #### Graduate students
 * [Sungkyu Kim](https://github.com/SungKyu-Kim39)
+
+
 <img src="/assets/img/sungkyu_kim.jpg" width="200" height="260" align="left" hspace="20" />
 Sungkyu is a graduate student in the AIMS lab. He received BE in Electronic Engineering from Kyung Hee University. He is interested in developing digital biomarkers for mental health using data-driven approaches in artificial emotional intelligence, machine learning and deep learning.
 
