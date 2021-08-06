@@ -11,10 +11,13 @@ Our research can be characterized using the following keywords:
 ### Biomedical and Health Data Analysis 
 We are interested in innovative statistical signal and image processing algorithms for large-scale data analysis. 
 ### Artificial Intelligence
-We are creating scalable and accurate artificial intelligence algorithms based on machine learning, deep learning and data mining. 
+We are creating scalable and accurate artificial intelligence algorithms based on recent breakthroughs in machine learning, deep learning and data mining. 
+### Artificial Emotional Intelligence
+We are interested in artificial emotional intelligence, also known as emotions analytics or affective computing, uses software to analyze a human's verbal and non-verbal communication and determine the person’s emotional or psychological state.
 ### Network Neuroscience
 We are analyzing multimodal neuroimaging data to understand integrative aspects of brain structure and function, specifically how the connections and interactions among brain regions produce brain dynamics, cognition, behavior, and disease.
-### Computational Modeling and Simulation
+### Computational Neuroimaging
 We are using and developing computational approaches for large-scale brain dynamics that can help take advantage of large data sets, categorizing brain dysfuntion with novel methods to lead to better diagnoses and improved biomarkers.
 ### Intelligent Healthcare
 We are aiming at discovering knowledge and wisdom in precision medicine, and data-driven digital healthcare.
+
