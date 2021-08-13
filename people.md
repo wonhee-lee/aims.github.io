@@ -37,7 +37,8 @@ Won Hee is the director of the [AIMS Lab](https://wonhee-lee.github.io/khu-aims/
 
 #### International
 * Soojin Lee and Martin J. McKeown, University of British Columbia
-* Sophia Frangou, Icahn School of Medicine at Mount Sinai
+* Sophia Frangou, Icahn School of Medicine at Mount Sinai & University of British Columbia
+* Mathilde Antoniades, Icahn School of Medicine at Mount Sinai 
 * Andrew Laine, Columbia University
 <br>
 
