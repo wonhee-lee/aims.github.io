@@ -14,33 +14,30 @@ Won Hee is the director of the [AIMS Lab](https://wonhee-lee.github.io/khu-aims/
 
 
 ### Graduate students
+* [Sungkyu Kim](https://github.com/SungKyu-Kim39)
+* <!---
 <hr>
-<!---
 <img src="https://raw.githubusercontent.com/wonhee-lee/wonhee-le.github.io/master/img/sungkyu_kim.jpg" width="200" height="260" align="left" hspace="20" />
 -->
-* [Sungkyu Kim](https://github.com/SungKyu-Kim39)
  
 ### Undergraduate students
-<hr>
 * Juhyuk Han
 * Minjae Kim 
 
 ### Collaborators
-<hr>
 #### Within KHU
 * Tae-Seong Kim, Biomedical Eingeering, Kyung Hee University
 
 #### Outside of KHU
-* Sehyun Kim, Seoul National University Hospital 
-* Eunyoung Kim, Seoul National University Hospital 
-* Jinhyeok Jang, Bless Hopital
+* Se Hhyun Kim, Seoul National University Hospital 
+* Eun Young Kim, Seoul National University Hospital 
+* Jin Hyeok Jang, Bless Hopital
 
 #### International
 * Soojin Lee, Martin J. McKeown, University of British Columbia
 * Sophia Frangou, Icahn School of Medicine at Mount Sinai
 
 #### Alumni
-<hr>
 * Yeon Ju Ryu (BS '21, Currently at [SK Telecom](https://www.sktelecom.com/index.html))
 * Jeong Sue You (BS '21, Currently at [LINE](https://line.me/ko/))
 * Yi Ji Bae (BS '21, Currently at [Kakao](https://www.kakaocorp.com/page/))
