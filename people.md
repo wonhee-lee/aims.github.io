@@ -19,7 +19,7 @@ Won Hee is the director of the [AIMS Lab](https://wonhee-lee.github.io/khu-aims/
 ### Undergraduate students
 * Juhyuk Han
 * Minjae Kim 
-
+<br />
 
 ### Collaborators
 <hr>
@@ -38,7 +38,7 @@ Won Hee is the director of the [AIMS Lab](https://wonhee-lee.github.io/khu-aims/
 #### International
 * Soojin Lee and Martin J. McKeown, University of British Columbia
 * Sophia Frangou, Icahn School of Medicine at Mount Sinai
-
+<br />
 
 ### Alumni
 <hr>
