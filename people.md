@@ -5,7 +5,6 @@ subtitle: AIMS Lab Members
 ---
 
 ### Lab director
-<hr>
 * [Won Hee Lee](https://wonhee-lee.github.io/aboutme/)
 
 
@@ -37,7 +36,7 @@ Won Hee is the director of the [AIMS Lab](https://wonhee-lee.github.io/khu-aims/
 * Soojin Lee, Martin J. McKeown, University of British Columbia
 * Sophia Frangou, Icahn School of Medicine at Mount Sinai
 
-#### Alumni
+### Alumni
 * Yeon Ju Ryu (BS '21, Currently at [SK Telecom](https://www.sktelecom.com/index.html))
 * Jeong Sue You (BS '21, Currently at [LINE](https://line.me/ko/))
 * Yi Ji Bae (BS '21, Currently at [Kakao](https://www.kakaocorp.com/page/))
