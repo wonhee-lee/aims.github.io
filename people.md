@@ -23,13 +23,16 @@ Won Hee is the director of the [AIMS Lab](https://wonhee-lee.github.io/khu-aims/
 
 ### Collaborators
 
+
 #### Within KHU
 * Tae-Seong Kim, Biomedical Eingeering, Kyung Hee University
+
 
 #### Outside of KHU
 * Se Hyun Kim, Seoul National University Hospital 
 * Eun Young Kim, Seoul National University Hospital 
 * Jin Hyeok Jang, Bless Hopital
+
 
 #### International
 * Soojin Lee and Martin J. McKeown, University of British Columbia
