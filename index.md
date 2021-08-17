@@ -38,7 +38,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 - (2021-03) WHL wins the NRF's Outstanding Young Scientist Grant
 - (2021-03) Sungkyu joins the group as graduate research assistant. Welcome aboard!
 - (2021-01) Our research will be supported by [IITP](https://www.iitp.kr/main.it)
-- (2021-09) Our research will be supported by Kyung Hee University
+- (2020-09) Our research will be supported by Kyung Hee University
 - (2020-09) Won Hee joins Department of Software Convergence at Kyung Hee University
 
 <!--
