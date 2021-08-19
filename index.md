@@ -33,7 +33,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 - (2021-06) Seung Hye had poster presentation at [OHBM 2021](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4041)
 - (2021-06) Dong Hyeok gave oral presentation at [Korea Society of IT Services](https://www.itservice.or.kr/news01.html?bmode=read&bid=notice&id_no=700&l=1) 
 - (2021-05) Five papers got accepted to [KCC 2021](https://www.kiise.or.kr/conference/kcc/2021/). Congratulations Yiji, Midan, Yeon Ju, Jeong Sue, and SangYun! 
-- (2021-04) WHL's work with [Sophia Frangou lab](https://labs.icahn.mssm.edu/frangoulab/) is published in [Psychiatry Research: Neuroimaging](https://www.sciencedirect.com/science/article/pii/S0925492721000226)
+- (2021-04) WHL's work with [Sophia Frangou Lab](https://labs.icahn.mssm.edu/frangoulab/) is published in [Psychiatry Research: Neuroimaging](https://www.sciencedirect.com/science/article/pii/S0925492721000226)
 - (2021-04) One abstract got accepted to [OHBM 2021](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4041). Congratulations Seung Hye!
 - (2021-03) WHL wins the NRF's Outstanding Young Scientist Grant
 - (2021-03) Sungkyu joins the group as graduate research assistant. Welcome aboard!
