@@ -7,7 +7,7 @@ subtitle: AIMS Lab is a data science and AI research lab led by Dr. Won Hee Lee
 
 Our mission is to develop algorithms and models to improve medicine for patients and healthcare professionals.
 
-Our aim is to develop artificial intelligence and machine learning techniques for the analysis and interpretation of biomedical, health, and natural language data. The group focuses on pursuing blue-sky research, including:
+Our aim is to develop artificial intelligence and machine learning techniques for the analysis and interpretation of natural language, biomedical and health data. The group focuses on pursuing blue-sky research, including:
 
 * AI for the early detection, prediction and diagnosis of diseases
 * AI for personalised interventions and therapies
