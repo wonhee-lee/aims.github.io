@@ -13,6 +13,7 @@ Won Hee is the director of the [AIMS Lab](https://wonhee-lee.github.io/khu-aims/
 
 
 ### Graduate students
+<img src="/blob/main/assets/img/sungkyu_kim.jpg" width="200" height="260" align="left" hspace="20" />
 * [Sungkyu Kim](https://github.com/SungKyu-Kim39)
 
 
