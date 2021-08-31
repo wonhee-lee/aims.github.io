@@ -26,7 +26,7 @@ Won Hee is the director of the [AIMS Lab](https://wonhee-lee.github.io/khu-aims/
 
 
 #### Within KHU
-* Tae-Seong Kim, Biomedical Eingeering, Kyung Hee University
+* Tae-Seong Kim, Biomedical Engineering, Kyung Hee University
 
 
 #### Outside of KHU
