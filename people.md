@@ -18,7 +18,7 @@ Won Hee is the director of the [AIMS Lab](https://wonhee-lee.github.io/khu-aims/
 
 ### Undergraduate students
 * Juhyuk Han
-* Minjae Kim 
+* Minjae Kim
 <br>
 
 ### Collaborators
