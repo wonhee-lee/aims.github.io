@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Science and Visualization
-subtitle: SWCON425, Fall 2020	
+subtitle: SWCON425	
 ---
 
 ## Introduction to Data Science and Visualization
