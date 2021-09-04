@@ -6,7 +6,7 @@ subtitle: Courses
 ### 2021
 #### Fall
 - Machine Learning
-- Data Science and Visualization
+- [Data Science and Visualization](https://wonhee-lee.github.io/khu-aims/dataviz/)
 - Data Analysis Capstone Design
 - Software Convergence Capstone Design
 
