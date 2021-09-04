@@ -28,7 +28,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ## Recent News
 <hr>
-- (2021-08) Our paper (Yiji, Midan) got accepted for publication in [Sensors](https://www.mdpi.com/journal/sensors).
+- (2021-08) Our paper got accepted for publication in [Sensors](https://www.mdpi.com/1424-8220/21/17/5924). Congratulations Yiji and Midan!
 - (2021-07) Our undergrads (Midan, Yeon Ju, Jeong Sue) won awards at [KCC 2021](https://www.kiise.or.kr/academy/board/academyNewsView.fa?MENU_ID=080100&sch_add_bd=%ED%95%99%ED%9A%8C%EC%86%8C%EC%8B%9D&NUM=2180). Well deserved. Congratulations!
 - (2021-07) WHL wins the NRF's Grant.
 - (2021-06) Seung Hye had poster presentation at [OHBM 2021](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4041).
