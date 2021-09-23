@@ -21,7 +21,7 @@ subtitle: Courses
 - Software Convergence Capstone Design 
 
 <hr>
-### ISMMS prior to KHU
+### Prior to KHU
 - Biomedical Image Processing and Analysis 
 - Principles of Magnetic Resonance Imaging
 - Advanced Biomedical Image Analysis
