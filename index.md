@@ -28,7 +28,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ## Recent News
 <hr>
-- (2021-10) WHL's work with [Martin J. McKeown Lab](https://www.parkinsons.ubc.ca/) is published in Frontiers in Neurology. 
+- (2021-10) WHL's work with [Martin J. McKeown Lab](https://www.parkinsons.ubc.ca/) got accepted for publication in Frontiers in Neurology. 
 - (2021-08) Our paper got accepted for publication in [Sensors](https://www.mdpi.com/1424-8220/21/17/5924). 
 - (2021-07) Our undergrads (Midan, Yeon Ju, Jeong Sue) won awards at [KCC 2021](https://www.kiise.or.kr/academy/board/academyNewsView.fa?MENU_ID=080100&sch_add_bd=%ED%95%99%ED%9A%8C%EC%86%8C%EC%8B%9D&NUM=2180). Well deserved. Congratulations!
 - (2021-07) WHL wins the NRF's Grant.
