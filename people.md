@@ -50,6 +50,6 @@ Won Hee is the director of the [AIMS Lab](https://wonhee-lee.github.io/khu-aims/
 <hr>
 * Yeon Ju Ryu (BS '21, Currently at [SK Telecom](https://www.sktelecom.com/index.html))
 * Jeong Sue You (BS '21, Currently at [LINE](https://line.me/ko/))
-* Yi Ji Bae (BS '21, Currently Internship at [Kakao](https://www.kakaocorp.com/page/))
+* Yi Ji Bae (BS '21)
 * Dong Hyeok Kim (BS '21)
 * Soojin Woo (BS '21)
