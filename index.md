@@ -7,6 +7,7 @@ published: true
 ---
 
 Welcome to **AIMS** at **Kyung Hee University**!
+
 We build **AI + Health**!
 
 ## Open Positions
