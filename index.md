@@ -1,12 +1,12 @@
 ---
 layout: page
-title: AIMS
+title: AIMS Lab
 permalink: /
 subtitle: Laboratory of <b>A</b>rtificial <b>I</b>ntelligence for <b>M</b>edicine and <b>S</b>cience
 published: true
 ---
 
-Welcome to **AIMS** at **Kyung Hee University**!
+Welcome to **AIMS Lab** at **Kyung Hee University**!
 
 We build **AI + Health**!
 
