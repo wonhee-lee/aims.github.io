@@ -31,7 +31,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 ## Recent News
 <hr>
 - (2021-11) Hyewon joins the group as undergraduate research assistant. Welcome aboard!
-- (2021-11) Six papers got accepted to [KSC 2021](https://www.kiise.or.kr/conference/main/index.do?CC=ksc&CS=2021). Congratulations Seoyoung, Ji Hyeon, Sunghwan, Hyewon, Hyunji, Donggu! 
+- (2021-11) Seven papers got accepted to [KSC 2021](https://www.kiise.or.kr/conference/main/index.do?CC=ksc&CS=2021). Congratulations Seoyoung, Ji Hyeon, Sunghwan, Hyewon, Hyunji, Donggu! 
 - (2021-10) WHL's work with [Martin J. McKeown Lab](https://www.parkinsons.ubc.ca/) got accepted for publication in [Frontiers in Neurology](https://www.frontiersin.org/articles/10.3389/fneur.2021.758122/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Neurology&id=758122). 
 - (2021-08) Our paper got accepted for publication in [Sensors](https://www.mdpi.com/1424-8220/21/17/5924). 
 - (2021-07) Our undergrads (Midan, Yeon Ju, Jeong Sue) won awards at [KCC 2021](https://www.kiise.or.kr/academy/board/academyNewsView.fa?MENU_ID=080100&sch_add_bd=%ED%95%99%ED%9A%8C%EC%86%8C%EC%8B%9D&NUM=2180). Well deserved. Congratulations!
