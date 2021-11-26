@@ -7,7 +7,6 @@ published: true
 ---
 
 Welcome to **AIMS Lab** at **Kyung Hee University**!
-
 We do **Data Science** and build **AI + Health**!
 
 ## Open Positions
