@@ -20,10 +20,10 @@ Won Hee is the director of the [AIMS Lab](https://wonhee-lee.github.io/khu-aims/
 * Ji Hyeon Jeong, Software Convergence
 * Sunghwan Moon, International Studies & Software Convergence
 * Seoyoung Kim, Software Convergence
+* Hyewon Park, Industrial & Management Systems Engineering & Software Convergence
 * Juhyuk Han, Software Convergence
 * Minjae Kim, Software Convergence
 * Daye Kim, Industrial & Management Systems Engineering
-* Hyewon Park, Industrial & Management Systems Engineering & Software Convergence
 <br>
 
 ### Collaborators
