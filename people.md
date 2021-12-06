@@ -13,13 +13,12 @@ Won Hee is the director of the [AIMS Lab](https://wonhee-lee.github.io/khu-aims/
 -->
 
 ### Graduate students
-* [Sungkyu Kim](https://github.com/SungKyu-Kim39), Software Convergence
-
-
+* [Sungkyu Kim](https://github.com/SungKyu-Kim39), Software Convergence (2021 - )
+* Ji Hyeon Jeong, Software Convergence (2022 - )
+* Sunghwan Moon, International Studies & Software Convergence (2022 - )
+* Seoyoung Kim, Software Convergence (2022)
+ 
 ### Undergraduate students
-* Ji Hyeon Jeong, Software Convergence
-* Sunghwan Moon, International Studies & Software Convergence
-* Seoyoung Kim, Software Convergence
 * Hyewon Park, Industrial & Management Systems Engineering & Software Convergence
 * Juhyuk Han, Software Convergence
 * Minjae Kim, Software Convergence
@@ -49,6 +48,10 @@ Won Hee is the director of the [AIMS Lab](https://wonhee-lee.github.io/khu-aims/
 
 ### Alumni
 <hr>
+* Ji Hyeon Jeong, Software Convergence 
+* Sunghwan Moon, International Studies & Software Convergence 
+* Seoyoung Kim, Software Convergence 
+* Sunghwan Moon, International Studies & Software Convergence
 * Yeon Ju Ryu (BS '21, Currently at [SK Telecom](https://www.sktelecom.com/index.html))
 * Jeong Sue You (BS '21, Currently at [LINE](https://line.me/ko/))
 * Yi Ji Bae (BS '21)
