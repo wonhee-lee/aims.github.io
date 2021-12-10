@@ -30,6 +30,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 
 ## Recent News
 <hr>
+- (2022-03) Ji Hyeon, Seoyoung, and Sunghwan will join the group as graduate research assistant. Welcome aboard!
 - (2021-12) AIMS team (SK, JJ, DK, SM) ranked [2nd](https://ai.nsml.navercorp.com/rankings/4) in the [Artificial Intelligence Diabetes Datathon (A.I.D.D.)](http://aiddatathon.com/) **당뇨병 발병 예측 AI 모델 개발 챌린지**. Congratulations!
 - (2021-12) JH and DK ranked [1st](http://swedu.khu.ac.kr/board5/bbs/board.php?bo_table=06_03&wr_id=444) in the [2021 KHU Software Festival](https://swf.khu.ac.kr/swfest_2021). Congratulations!
 - (2021-11) Hyewon joins the group as undergraduate research assistant. Welcome aboard!
