@@ -31,6 +31,7 @@ Following is our lab intro video taken in 2018 (special thanks to Karel Setničk
 ## Recent News
 <hr>
 - (2021-12) AIMS team (SK, JJ, DK, SM) ranked [2nd](https://ai.nsml.navercorp.com/rankings/4) in the [Artificial Intelligence Diabetes Datathon (A.I.D.D.)](http://aiddatathon.com/) **당뇨병 발병 예측 AI 모델 개발 챌린지**. Congratulations!
+- (2021-12) JH and DK ranked [1st](http://swedu.khu.ac.kr/board5/bbs/board.php?bo_table=06_03&wr_id=444) in the [2021 KHU Software Festival](https://swf.khu.ac.kr/swfest_2021). Congratulations!
 - (2021-11) Hyewon joins the group as undergraduate research assistant. Welcome aboard!
 - (2021-11) Seven papers got accepted to [KSC 2021](https://www.kiise.or.kr/conference/main/index.do?CC=ksc&CS=2021). Congratulations Seoyoung, Ji Hyeon, Sunghwan, Hyewon, Hyunji, and Donggu! 
 - (2021-10) WHL's work with [Martin J. McKeown Lab](https://www.parkinsons.ubc.ca/) got accepted for publication in [Frontiers in Neurology](https://www.frontiersin.org/articles/10.3389/fneur.2021.758122/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Neurology&id=758122). 
