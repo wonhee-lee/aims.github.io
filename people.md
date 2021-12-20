@@ -46,6 +46,7 @@ Won Hee is the director of the [AIMS Lab](https://wonhee-lee.github.io/khu-aims/
 * Andrew Laine, Columbia University
 <br>
 
+<!--
 ### Alumni
 <hr>
 * Yeon Ju Ryu (BS '21, Currently at [SK Telecom](https://www.sktelecom.com/index.html))
@@ -53,3 +54,4 @@ Won Hee is the director of the [AIMS Lab](https://wonhee-lee.github.io/khu-aims/
 * Yi Ji Bae (BS '21)
 * Dong Hyeok Kim (BS '21)
 * Soojin Woo (BS '21)
+-->
