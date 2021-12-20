@@ -55,3 +55,4 @@ Won Hee is the director of the [AIMS Lab](https://wonhee-lee.github.io/khu-aims/
 * Dong Hyeok Kim (BS '21)
 * Soojin Woo (BS '21)
 -->
+
