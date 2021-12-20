@@ -10,7 +10,7 @@ Our mission is to develop algorithms and models to improve medicine for patients
 Our aim is to develop artificial intelligence and machine learning techniques for the analysis and interpretation of natural language, biomedical and health data. The group focuses on pursuing blue-sky research, including:
 
 * AI for the early detection, prediction and diagnosis of diseases
-* AI for personalised interventions and therapies
+* AI for personalized interventions and therapies
 * AI for the identification of new biomarkers and targets for therapy
 * Safe, robust and interpretable AI approaches
 * Privacy-preserving AI approaches
