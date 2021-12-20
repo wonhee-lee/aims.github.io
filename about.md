@@ -15,7 +15,7 @@ Our aim is to develop artificial intelligence and machine learning techniques fo
 * Safe, robust and interpretable AI approaches
 * Privacy-preserving AI approaches
 
-Our group uses neuroimaging, speech and text communication, and machine learning to improve assessments and treatments for mental health, and neurological disorders. To support this effort, we build frameworks and use extensive collaborations to improve efficiency of analyses and reproducibility in science.
+Our group uses neuroimaging, speech and text communication, and machine learning to improve assessments and treatments for psychiatric and neurological disorders. To support this effort, we build frameworks and use extensive collaborations to improve efficiency of analyses and reproducibility in science.
 
 <!-- 
 The Lab for Artificial Intelligence in Medicine and Science - AIMS is an interdisplinary group of machine learning engineers, medical doctors and scientists. We use artificial intelligence , here mostly machine learning methods, to tackle various use cases in medicine. We work with pure clinical data, with neuroimaging data, the combination of both and also with speech and text data. 
